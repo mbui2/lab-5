@@ -4,7 +4,16 @@ table, th, td {
 	border-collapse: collapse;
 	border-radius: 10px;
 }
-
+img {
+    float: left;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
+<img src="images/mercury.jpg">
+<img src="images/earth.jpg">
+<img src="images/saturn.jpg">
+<img src="images/neptune.jpg">
 th {
 	border-style: none;
 	text-align: center;

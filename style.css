@@ -10,10 +10,7 @@ img {
     height: 100px;
     object-fit: cover;
 }
-<img src="images/mercury.jpg">
-<img src="images/earth.jpg">
-<img src="images/saturn.jpg">
-<img src="images/neptune.jpg">
+
 th {
 	border-style: none;
 	text-align: center;
