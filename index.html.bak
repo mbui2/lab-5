@@ -10,11 +10,11 @@
 	<table class="center">
 	  <tr>
 	
-	  	<th>PLANET NAME</th>
-	  	<th><img src="images/mercury.jpg" alt="Mercury"></th>
-	 		<th><img src="images/earth.jpg" alt="Earth"></th>
-	 		<th><img src="images/saturn.jpg" alt="Saturn"></th>
-  		<th><img src="images/neptune.jpg" alt="Neptune"></th>
+	  	<th>The Planets</th>
+	  	<th><img src="images/mercury.jpeg" alt="Mercury"></th>
+	 		<th><img src="images/earth.jpeg" alt="Earth"></th>
+	 		<th><img src="images/saturn.jpeg" alt="Saturn"></th>
+  		<th><img src="images/neptune.jpeg" alt="Neptune"></th>
 	  </tr>
 	
 	  <tr class="dark">
